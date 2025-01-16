@@ -12,5 +12,5 @@ VidVibe is a web application that analyzes YouTube video performance using natur
 
 - **Frontend**: Vue 3, Vite, Tailwind CSS
 - **Backend**: Django
-- **NLP**: Python, [UPDATE THIS]
+- **NLP**: Python, Huggingface
 - **Database**: PostgreSQL
